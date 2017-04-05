@@ -1,3 +1,4 @@
+
 # hci
 Course of Human Computer Interaction
 
@@ -7,3 +8,6 @@ Lab 1  manual:https://docs.google.com/a/usindh.edu.pk/document/d/1JLRSC5-5dDG4ry
 
 
 [Lab 2] ( https://drive.google.com/open?id=1pQvG9zkMKRrNuduq-ca85Tq4-nqYIcFg2w7dlR5oBTk)
+
+
+[Lab 3] (https://docs.google.com/a/usindh.edu.pk/document/d/1jKD5SePYfyESKs_oAZR_AXwCbCygh9FNIGVqoskY2_U/edit?usp=sharing)
